@@ -1,3 +1,3 @@
-# smell-detection-with-deep-learning
+# smell detection with deep learning
 A code smell is a surface symptom that possibly indicates a more serious problem in the application, the code hindering the maintenance, development and progress of the application. Sometimes code smells are caused by poor design and programming style. So it is necessary to detect smells in the code. In the past years, several cases have been made for a car design model or design for identification. These models are carefully built using machine algorithms, such as RF, SVM, Decision Tree, Logistic Regression, Naive Bayes, DNN, NN, CNN, RNN, LSTM and GRU.
  The purpose of this research is to provide a method to improve the result of detecting smells in code using machine methods. Because the methods of using the machine are growing and are constantly improved with methods that have better efficiency and accuracy in terms of performance and processing power.
